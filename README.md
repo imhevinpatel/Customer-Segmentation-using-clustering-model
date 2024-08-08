@@ -1,2 +1,2 @@
-# Customer-Segmentation-using-clustering-model
-Developed a ML model to give various recommendations of financial products &amp; services on target customer groups
+# customer_segmentation
+Customers segmentation using clustering models to give products and services recommendations
